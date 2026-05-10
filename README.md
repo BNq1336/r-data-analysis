@@ -29,16 +29,11 @@ Projekt pozwala szybko sprawdzić:
 
 ---
 
-# Wykorzystane dane
+# Dane
 
-Projekt korzysta z publicznych danych IMDb:
+Projekt automatycznie pobiera wymagane dane z oficjalnych datasetów IMDb przy pierwszym uruchomieniu.
 
-- `title.basics.tsv`
-- `title.episode.tsv`
-- `title.ratings.tsv`
-
-Źródło danych:
-
+Źródło:
 https://datasets.imdbws.com/
 
 ---
